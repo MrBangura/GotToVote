@@ -28,4 +28,4 @@ We're are still working on them but you can find the shell of unloved installati
 
 View [MIT License](./LICENSE)
 
-Copyright (c) 2012 Code for Africa
+Copyright (c) 2012 Code for Africa test
